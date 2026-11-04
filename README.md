@@ -1,16 +1,31 @@
-## Hi there 👋
+# Juliano Vieira Frazão
 
-<!--
-**JulianoFrazao0/JulianoFrazao0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor**
 
-Here are some ideas to get you started:
+Desenvolvo sites e aplicativos, como o site do [AdairImoveis](https://github.com/seu-usuario/adairimoveis), feito para um corretor de imóveis em HTML, CSS e JavaScript. Também faço parte da equipe de robótica **Tuiutech 9604** (FRC), de Cuiabá-MT, onde programo robôs em Java com WPILib.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Supabase" title="Supabase" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+
+<br/>
+<br/>
+
+---
+
+### 🦾 Projetos
+
+- **Site da Tuiutech 9604**: site público da equipe de robótica, em inglês e português.
+- **Portal Tuiutech**: portal interno da equipe com documentos, projetos e Kanban.
+- **Tuiutech Scout**: aplicativo de scout para competições FRC.
+- **Site AdairImoveis**: site para um corretor de imóveis, com identidade em vermelho, branco e preto.
+
+---
