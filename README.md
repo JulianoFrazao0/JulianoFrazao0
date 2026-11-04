@@ -2,7 +2,7 @@
 
 **Desenvolvedor**
 
-Desenvolvo sites e aplicativos, como o site do [AdairImoveis](https://github.com/seu-usuario/adairimoveis), feito para um corretor de imóveis em HTML, CSS e JavaScript. Também faço parte da equipe de robótica **Tuiutech 9604** (FRC), de Cuiabá-MT, onde programo robôs em Java com WPILib.
+  Atuo no desenvolvimento softwares e sites webs, Participante da equipe Tuiutech 9604 (FRC), de Cuiabá-MT.
 
 ---
 
